@@ -1,0 +1,24 @@
+.header {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid black;
+  z-index: 1;
+  width: 100%
+}
+
+#mytimes {
+  color: MediumAquamarine;
+  margin-left: 10px;
+}
+
+.header li {
+display: inline-flex;
+align-items: center;
+justify-content: flex-end;
+margin: right;
+
+
+}
