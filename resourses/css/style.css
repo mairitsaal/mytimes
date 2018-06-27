@@ -17,8 +17,8 @@
 .header li {
 display: inline-flex;
 align-items: center;
-justify-content: flex-end;
-margin: right;
+text-align: left;
+
 
 
 }
